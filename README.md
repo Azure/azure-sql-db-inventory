@@ -38,16 +38,27 @@ To use this script, you'll need the following installed:
 ---
 
 ## 🚀 Getting Started
-- **🔧 1. Clone the repository**
+🔧 1. Clone the repository
 
-      git clone https://github.com/misantibanez/azure-sql-db-inventory.git
-      cd azure-sql-db-inventory
-    
-- **▶️ 2. Run the script**
+```bash
+git clone https://github.com/alfmoralesS/Azure-db-redundancy-inventory.git
+```
 
-      cd scripts
-      az login
-      .\list-azure-sql-databases.ps1
+
+▶️ 2. Run the script
+
+```bash
+cd Azure-db-redundancy-inventory
+```
+```bash
+cd scripts
+```
+```bash
+az login
+```
+```bash
+.\list-azure-sql-databases.ps1
+```
     ![alt text](assets/run_script.png)
 
 ---
@@ -56,7 +67,8 @@ To use this script, you'll need the following installed:
     
     Fetching details for Resource Group:
 
-  ![alt text](assets/output_example.png)
+  ![image](https://github.com/user-attachments/assets/9ae0de10-c230-480b-98b5-d735c77a838e)
+
 
 ---
 ## 🔗 References
