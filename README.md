@@ -59,7 +59,6 @@ az login
 ```bash
 .\list-azure-sql-databases.ps1
 ```
-    ![alt text](assets/run_script.png)
 
 ---
 
