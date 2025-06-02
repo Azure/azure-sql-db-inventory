@@ -8,9 +8,9 @@ Ideal for cloud administrators, DevOps engineers, or developers managing large-s
 
 ## 📋 Features
 
-- ✅ Lists all Azure SQL Databases across your subscription
+- ✅ Lists all Azure SQL Databases and Azure SQL Managed Instances across your subscription
 - 🗂️ Groups databases by their parent SQL server and resource group
-- 📊 Displays database service tier, status, and zone redundancy in a clean table format
+- 📊 Displays database service tier, status, redundancy type, storage size, failover groups (applicable only to Azure SQL Databases) and compute details in a clean table format
 - 🔁 Uses standard CLI tools
 - 🧩 Easily customizable for filtering, CSV export
 
@@ -41,7 +41,7 @@ To use this script, you'll need the following installed:
 🔧 1. Clone the repository
 
 ```bash
-git clone https://github.com/alfmoralesS/Azure-db-redundancy-inventory.git
+git clone https://github.com/Azure/azure-sql-db-inventory.git
 ```
 
 
@@ -64,7 +64,7 @@ az login
 
 ## 🖥️ Example Output
     
-    Fetching details for Resource Group:
+    
 
   ![image](https://github.com/user-attachments/assets/9ae0de10-c230-480b-98b5-d735c77a838e)
 
