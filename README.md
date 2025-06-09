@@ -62,6 +62,7 @@ az login
 .\list-azure-sql-databases.ps1
 ```
 
+![image](https://github.com/Azure/azure-sql-db-inventory/blob/main/assets/run_script.png)
 ---
 
 ## 🖥️ Example Output
