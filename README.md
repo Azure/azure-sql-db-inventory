@@ -48,7 +48,7 @@ git clone https://github.com/Azure/azure-sql-db-inventory.git
 ▶️ 2. Run the script
 
 ```bash
-cd Azure-db-redundancy-inventory
+cd azure-sql-db-inventory
 ```
 ```bash
 cd scripts
