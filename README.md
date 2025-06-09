@@ -9,6 +9,8 @@ Ideal for cloud administrators, DevOps engineers, or developers managing large-s
 ## 📋 Features
 
 - ✅ Lists all Azure SQL Databases and Azure SQL Managed Instances across your subscription
+- 🔢 Displays the total number of subscriptions scanned
+- 🔠 Automatically sorts subscriptions alphabetically for consistent output
 - 🗂️ Groups databases by their parent SQL server and resource group
 - 📊 Displays database service tier, status, redundancy type, storage size, failover groups (applicable only to Azure SQL Databases) and compute details in a clean table format
 - 🔁 Uses standard CLI tools
@@ -66,7 +68,7 @@ az login
     
     
 
-  ![image](https://github.com/user-attachments/assets/9ae0de10-c230-480b-98b5-d735c77a838e)
+  ![image](https://github.com/Azure/azure-sql-db-inventory/assets/output_example.png)
 
 
 ---
