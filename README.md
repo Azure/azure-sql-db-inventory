@@ -68,7 +68,7 @@ az login
     
     
 
-  ![image](https://github.com/Azure/azure-sql-db-inventory/assets/output_example.png)
+  [![image](https://github.com/Azure/azure-sql-db-inventory/assets/output_example.png)](https://github.com/Azure/azure-sql-db-inventory/blob/main/assets/output_example.png)
 
 
 ---
